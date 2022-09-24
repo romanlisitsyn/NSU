@@ -1,1 +1,1 @@
-# NSU
+# NeuroStartUp
